@@ -1,3 +1,5 @@
+track type=vcf name="vcf example" description="three samples in a vcf" db=hg18 visibility="full"
+browser position chrM:1-16569
 ##fileformat=VCFv4.2
 ##FORMAT=<ID=AD,Number=R,Type=Integer,Description="Allelic depths for the ref and alt alleles in the order listed">
 ##FORMAT=<ID=AF,Number=A,Type=Float,Description="Allele fractions of alternate alleles in the tumor">
